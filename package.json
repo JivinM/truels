@@ -1,0 +1,20 @@
+{
+  "name": "truels",
+  "version": "0.1.4",
+  "description": "Keywords for the JS true & false",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "JS",
+    "Truels",
+    "True",
+    "False"
+  ],
+  "author": "JivinM",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}

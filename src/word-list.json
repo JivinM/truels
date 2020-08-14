@@ -1,0 +1,14 @@
+{
+    "wordList": {
+        "falsyWords": [
+            "no",
+            "off",
+            "zero"
+        ],
+        "truthyWords": [
+            "on",
+            "one",
+            "yes"
+        ]
+    }
+}
